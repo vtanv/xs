@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<TableLayout
+		android:layout_width="match_parent"
+		android:layout_height="fill_parent">
+		<!-- Row 1 -->
+		<TableRow
+			android:background="@drawable/cell_shape"
+			android:gravity="center_horizontal"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+			
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="5dp"
+				android:textColor="#000"
+				android:text="GIẢI"
+				android:textAppearance="?android:attr/textAppearanceMedium" />
+			
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="5dp"
+				android:text="GIÁ TRỊ"
+				android:textAppearance="?android:attr/textAppearanceMedium" />
+			
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="5dp"
+				android:text="SỐ LƯỢNG"
+				android:textAppearance="?android:attr/textAppearanceMedium" />
+			
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="5dp"
+				android:text="THÀNH TIỀN"
+				android:textAppearance="?android:attr/textAppearanceMedium" />
+			
+		</TableRow>
+
+		<!-- Row 2 with single column -->
+		<TableRow
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:gravity="center_horizontal">
+		</TableRow>
+
+		<!-- Row 3 with 4 columns -->
+
+		<TableRow
+			android:id="@+id/tableRow1"
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent">
+
+			<TextView
+				android:id="@+id/TextView04" android:text="TÁM"
+				android:layout_weight="1" android:background="#dcdcdc"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:id="@+id/TextView04" android:text="100.000"
+				android:layout_weight="1" android:background="#d3d3d3"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<EditText
+				android:id="@+id/TextView04"
+				android:layout_weight="1" android:background="#FFFFFF"
+				android:textColor="#999999"
+				android:padding="20dip" android:gravity="center"/>
+		
+			<TextView
+				android:id="@+id/TextView04"
+				android:layout_weight="1" android:background="#cac9c9"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+		</TableRow>
+
+		<!-- Row 4 with 3 columns -->
+		<TableRow
+			android:id="@+id/tableRow2"
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent">
+
+			<TextView
+				android:text="BẢY"
+				android:layout_weight="1" android:background="#dcdcdc"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:text="456"
+				android:layout_weight="1" android:background="#d3d3d3"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:text="789"
+				android:layout_weight="1" android:background="#cac9c9"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+		
+			<TextView
+				android:id="@+id/TextView04" android:text="Hang 4"
+				android:layout_weight="1" android:background="#cac9c9"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+		</TableRow>
+
+		<!-- Row 4 with 3 columns -->
+		<TableRow
+			android:id="@+id/tableRow2"
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent">
+
+			<TextView
+				android:text="NĂM"
+				android:layout_weight="1" android:background="#dcdcdc"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:text="456"
+				android:layout_weight="1" android:background="#d3d3d3"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:text="789"
+				android:layout_weight="1" android:background="#cac9c9"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+
+			<TextView
+				android:id="@+id/TextView04" android:text="Hang 4"
+				android:layout_weight="1" android:background="#cac9c9"
+				android:textColor="#000000"
+				android:padding="20dip" android:gravity="center"/>
+		</TableRow>
+		
+
+	</TableLayout>
+</LinearLayout>
+				
