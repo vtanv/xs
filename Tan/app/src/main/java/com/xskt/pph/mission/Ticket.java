@@ -4,22 +4,21 @@ import android.os.*;
 import android.widget.*;
 import android.content.*;
 import android.view.*;
+import com.xskt.pph.*;
+
 
 public class Ticket extends ListActivity
 {
-
 	public final static Class[] CLASS = new Class[] {
-		TicketHeadNumber.class,
-		TicketWinList.class
+		TicketWinList.class,
+		My_List_View.class
 	};
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
-		String[] label = new String[]{
-			"ĐẦU SỐ", "BẢNG KÊ", "THỨ TƯ",
-			"THỨ NĂM", "THỨ SÁU", "THỨ BẢY",
-		};
-		ArrayAdapter adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, label);
+		String[] label = getResources().getStringArray(R.array.ticket_list_label);
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, label);
 		setListAdapter(adapter);
 	}
 

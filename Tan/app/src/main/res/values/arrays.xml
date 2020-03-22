@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string-array name="giaithuong">  
+        <item>Tám</item>  
+        <item>Bảy</item>  
+        <item>Sáu</item>  
+        <item>Năm</item>  
+        <item>Bốn</item>  
+		<item>Ba</item>
+		<item>Nhì</item>
+		<item>Nhất</item>
+		<item>Đặc Biệt</item>
+		<item>Phụ</item>
+		<item>Khuyến Khích</item>
+	</string-array>
+
+	<!-- Used in Menu TICKET-->
+	<string-array name="ticket_list_label">
+		<item>Bảng Kê Vé Trúng</item>
+		<item>Đầu Số</item>
+		<item>Updating</item>
+		<item>Updating</item>
+		<item>Updating</item>
+	</string-array>
+
+	<!-- Used in Menu CUSTOMER NAME-->
+	<string-array name="customer_name">
+		<item>Hoàng Văn An</item>
+		<item>Trương Ngọc An</item>
+		<item>Nguyễn Hoàng Anh</item>
+		<item>Mai Hữu Ánh</item>
+		<item>Trần Bảy</item>
+		<item>Dương Cao Bằng</item>
+		<item>Diệp Thị Bích</item>
+		<item>Tạ Thanh Bình</item>
+		<item>Mai Thành Các</item>
+		<item>Phan Minh Cảnh</item>
+		<item>Vũ Thị Cúc Chi</item>
+		<item>Phạm Minh chiêu</item>
+		<item>Nguyễn Phú Chinh</item>
+		<item>Nguyễn Văn Chung</item>
+		<item>Lâm Chứ</item>
+		<item>Phan Hoàng Thị Khánh Dung</item>
+		<item>Lục Phi Dũng</item>
+		<item>Nguyễn Đình Dũng</item>
+		<item>Phạm Khắc Dũng</item>
+		<item>Nguyễn Khắc Duy</item>
+		<item>Lê Thị Duyên</item>
+		<item>Đoàn Thùy Dương</item>
+		<item>Hồ thị Thùy Dương</item>
+		<item>Nguyễn Thị Thùy Dương</item>
+		<item>Thái Nghĩa Đại</item>
+		<item>Nguyễn Thị Yến Đào</item>
+		<item>Trần Vũ Anh Đào</item>
+		<item>Vưu Tuyết Đào</item>
+		<item>Nguyễn Kế Đáo</item>
+		<item>Nguyễn Đức Đầy</item>
+		<item>Lâm Thị Đẹp</item>
+		<item>Đoàn Văn Điệp</item>
+		<item>Nguyễn Thanh Giang</item>
+		<item>Nguyễn Thị Trúc Giang</item>
+		<item>Bùi Hồng Linh Hà</item>
+		<item>Thái Phước Hà</item>
+		<item>Trương Quang Hà</item>
+		<item>Phạm Trà Anh Hào</item>
+		<item>Ngô Trọng Hiếu</item>
+		<item>Trần Công Hội</item>
+		<item>Nguyễn Văn Huệ</item>
+		<item>Cao Mộng Hùng</item>
+		<item>Hứa Kim Hùng</item>
+		<item>Lê Minh Hùng</item>
+		<item>Phan Văn Huy</item>
+		<item>Trương Quang Huy</item>
+		<item>Dương Văn Hưng</item>
+		<item>Đặng Tấn Hưng</item>
+		<item>Nguyễn Ngọc Hưng</item>
+		<item>Nguyễn Thị Hồng Kế</item>
+		<item>Lâm Kiên</item>
+		<item>Bùi Thị Xuân Kiều</item>
+		<item>Trần Thị Nguyệt Khanh</item>
+		<item>Trần Văn Khánh (CM)</item>
+		<item>Trần Văn Khánh (TN)</item>
+		<item>Huỳnh Đăng Khoa</item>
+		<item>Nguyễn Tấn Khoa</item>
+		<item>Dương Việt Khởi</item>
+		<item>Võ Thị Lập</item>
+		<item>Cao Phạm Lễ</item>
+		<item>Tăng Lê Phúc Linh</item>
+		<item>Nguyễn Ngọc Lịnh</item>
+		<item>Nguyễn Thị Kim Loan</item>
+		<item>Nguyễn Văn Long</item>
+		<item>Nguyễn Minh Luân</item>
+		<item>Văn Hữu Luận</item>
+		<item>Nguyễn Thị Trúc Mai</item>
+		<item>Lương Khải Minh</item>
+		<item>Lê Chấn Nam</item>
+		<item>Nguyễn Sơn Nga</item>
+		<item>Nguyễn Vũ Thiên Nga</item>
+		<item>Bùi Văn Nghĩa</item>
+		<item>Nguyễn Mai Thảo Nguyên</item>
+		<item>Nguyễn Thị Minh Nguyệt</item>
+		<item>Võ Thị Tuyết Nhung</item>
+		<item>Nguyễn Thị Như</item>
+		<item>Nguyễn Minh Nhựt</item>
+		<item>Trần Văn Phái</item>
+		<item>Từ Phán</item>
+		<item>Quách Tấn Phát</item>
+		<item>Trương Phến</item>
+		<item>Lê Long Phúc</item>
+		<item>Lâm Tấn Phước</item>
+		<item>Trần Văn Sang</item>
+		<item>Đặng Minh Sơn</item>
+		<item>Lý Tấn Tài</item>
+		<item>Trương Hữu Tài</item>
+		<item>Lý Thanh Tâm</item>
+		<item>Trần Chí Tâm</item>
+		<item>Nguyễn Thị Kim Tiến</item>
+		<item>Trần Văn Tiến</item>
+		<item>Võ Thanh Tịnh</item>
+		<item>Lưu Quốc Toàn</item>
+		<item>Nguyễn Thị Tươi Tốt</item>
+		<item>Danh Quang Tuyền</item>
+		<item>Nguyễn Thị Hồng Tươi</item>
+		<item>Lê Văn Thạch</item>
+		<item>Lương Quan Thạch</item>
+		<item>Phan Văn Thái</item>
+		<item>Đoàn Thái Thanh</item>
+		<item>Nguyễn Kế Thanh</item>
+		<item>Trần Văn Thành</item>
+		<item>Mai Xuân Thảo</item>
+		<item>Nguyễn Trần Ngọc Thảo</item>
+		<item>Từ Lê Minh Thăng</item>
+		<item>Nguyễn Thị Nguyên Thi</item>
+		<item>Nguyễn Thị Minh Thiên</item>
+		<item>Nguyễn Thị Thiên</item>
+		<item>Trần Lê Thuận</item>
+		<item>Trương Thị Ngọc Thủy</item>
+		<item>Nguyễn Thị Hồng Thúy</item>
+		<item>Võ Thị Thanh Thúy</item>
+		<item>Nguyễn Phú Thương</item>
+		<item>Hà Thị Thùy Trang</item>
+		<item>Nguyễn Thị Thu Trang</item>
+		<item>Trần Diễm Trang</item>
+		<item>Nguyễn Văn Triệu</item>
+		<item>Trần Trung Trực</item>
+		<item>Huỳnh Hồng Vân</item>
+		<item>Huỳnh Thị Mỹ Vân</item>
+		<item>Ông Hải Vân</item>
+		<item>Trần Bích Vân</item>
+		<item>Huỳnh Trần Nguyên Vũ</item>
+		<item>Nguyễn Huy Vũ</item>
+		<item>Nguyễn Ngọc Xem</item>
+		<item>Huỳnh Thanh Xuân</item>
+		<item>Trần Thị Hương Xuân</item>
+		<item>Phan Thị Y</item>
+		<item>Nguyễn Ngọc Yến</item>
+	</string-array>
+</resources>
